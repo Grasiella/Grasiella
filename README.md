@@ -5,7 +5,7 @@
     Sou estudante de Ciência da Computação na UDESC - Universidade do Estado de Santa Catarina. <br>Aqui você encontrará trabalhos relacionados às disciplinas do curso e projetos pessoais.
   </samp>
  <br><br>
-  <a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
+  <a href="https://www.linkedin.com/in/grasielaferreira/">
     <img align="center" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 
