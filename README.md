@@ -2,7 +2,9 @@
 
 <p align="center">
 <samp>
-    Sou estudante de Ciência da Computação na UDESC - Universidade do Estado de Santa Catarina. <br>Aqui você encontrará trabalhos relacionados às disciplinas do curso e projetos pessoais.
+    Sou formada em Ciência da Computação na UDESC - Universidade do Estado de Santa Catarina. <br>
+    Atualmente, faço mestrado em Computação Aplicada na mesma universidade.
+    Aqui você encontrará trabalhos relacionados às disciplinas do curso e projetos pessoais.
 </samp>
 
 <p align="center">
